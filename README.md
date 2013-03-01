@@ -28,5 +28,10 @@ Collection of arguments for Line 2.49.3
 9a)  While the data from Fig S5 cannot be shown again in the same manner; the raw data within it can be analzyed differently.  Namely, perhaps it may be the case that the distribution of the Bcd mRNA in the larger embryos can be measureably different than in the smaller populations.  Such that the larger total amount of Bcd mRNA is insufficietly relegated to the anterior tip and as a consequence the source of distribution of the Bicoid protein is significantly larger than in the smaller embryos [or disproportionate in some other fasion].  
 
 
+10) Even-skipped data from C. Miles should also be included somewhere. 
+
+10a)  Also included are Eve border positions from Lines 9.17.1 abd 2.46.4; the previously published Drosophila lines.
+
+
 
 
