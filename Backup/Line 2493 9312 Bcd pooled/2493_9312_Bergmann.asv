@@ -1,0 +1,23 @@
+%% Bergmann S Coefficient calculation for Lines 2.49.3 and 9.31.2
+close all; clear all; clc;
+%%
+load('2493 9312 Bergmann.mat'); %Pooled data
+%Li = Individual egg length minus mean L over <L>
+%aEL = Egg length of embryos
+%xx2 = Absolute length bins
+%z2 = Measured B values over absolute length (Background subtracted)
+%Bthresh = Bicoid thresholds from 1:25 (approx min(max(B0)))
+
+
+%% Test plots of B profiles
+for i = 1:length(aEL)
+% figure, plot(xx2,z2(i,:))
+figure, plot(z2(i,:), xx2)
+end
+%% Interpolation
+
+
+
+
+intpb1 = interp1(z2(1, 4:50), xx
+
