@@ -1,0 +1,17 @@
+Bcd FY441 mRNA probe Dig label
+Mouse anti Dig
+Donkey anti Mouse Cy3
+Dapi
+
+Cy3: 50ms
+Dapi: ~20ms (slight variations)
+
+0-2hr embryos
+
+24971 1x Bcd
+w1118 2x Bcd
+CyO-Bcd 3x Bcd
+T301  6x Bcd
+L 2.49.3 Old (Chicago collected)
+L 2.49.3 New (CCHMC collected)
+L 9.31.2 Chicago collected
