@@ -42,7 +42,7 @@ clear all;clc;close all;
 % Data=Data([2     3     5     8    12    13    14    15    16    18]);
 
 load 2x;
-Data=Data([1:27])
+Data=Data([1     2         6     7     8     9    10    11    12    13    14    15    16   18  19    20    21    22 23    24    25  ])
 
 Factor2=80/80; % Factor2=exposure time/80ms;
 load Background %-100Bins
